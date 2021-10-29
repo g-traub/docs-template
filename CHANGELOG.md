@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/g-traub/docs-template/compare/v1.0.0...v1.1.0) (2021-10-29)
+
+
+### Features
+
+* add is easy message ([56f3f24](https://github.com/g-traub/docs-template/commit/56f3f246009c87e5163013866b2a4efc5cf49ea9))
+
 ## 1.0.0 (2021-10-27)
 
 
